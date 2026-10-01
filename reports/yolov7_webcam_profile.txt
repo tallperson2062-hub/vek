@@ -1,0 +1,15 @@
+VEK280 YOLOv7 WEBCAM PROFILE
+============================================================
+Camera: /dev/video0
+Resolution: 640x480
+Target FPS: 30
+Frames processed: 100
+Total test time: 320.975 s
+NPU mean latency: 70.380 ms
+NPU min latency: 65.540 ms
+NPU max latency: 77.620 ms
+NPU median latency: 69.505 ms
+NPU P95 latency: 76.700 ms
+NPU P99 latency: 77.620 ms
+NPU inference FPS: 14.209
+End-to-end webcam FPS: 0.312

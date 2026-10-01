@@ -1,0 +1,20 @@
+VEK280 YOLOv7 VIDEO PROFILE
+============================================================
+Video: /root/yellow_traffic_signs.avi
+Snapshot: /run/media/mmcblk0p1/snapshot.VE2802_NPU_IP_O00_A304_M3.yolov7.TF
+Resolution: 640x480
+Source FPS: 30.00
+Total frames: 211
+Frames processed: 211
+Video duration: 7.033 s
+Total processing time: 640.188 s
+
+NPU mean latency: 63.195 ms
+NPU min latency: 61.120 ms
+NPU max latency: 64.190 ms
+NPU median latency: 63.220 ms
+NPU P95 latency: 63.700 ms
+NPU P99 latency: 64.080 ms
+NPU inference FPS: 15.824
+End-to-end FPS: 0.330
+Real-time ratio: 0.0110
