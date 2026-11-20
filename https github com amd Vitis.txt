@@ -1,0 +1,9 @@
+https://github.com/amd/Vitis-AI/archive/refs/heads/release/6.3.zip?utm_source=chatgpt.com
+
+
+
+
+https://download.amd.com/opendownload/VitisAI/6.3/vitis_ai_V6.3_VE2802_NPU_IP_O00_A304_M3.tgz?utm_source=chatgpt.com
+
+
+https://download.amd.com/opendownload/VitisAI/6.3/vitis_ai_V6.3_VAI_NPU_SW.tgz?utm_source=chatgpt.com
